@@ -7,6 +7,22 @@ With this project, we will be able to monitor the temperature, air quality and a
 
 ![App Screenshot](https://raw.githubusercontent.com/P149-Bootcamp-Graduation-Project/Group3/main/img/proje_2022-01-05_14-40-33.png)
 
+### Microservices
+#### Random Data Generator   
+    Air Data Generator  
+    Temperature Data Generator  
+    Electricity Data Generator  
+#### Producers
+    Air Producer
+    Temperature Producer
+    Electricity Producer
+#### Consumers
+    Air Consumer
+    Temperature Consumer
+    Electricity Consumer
+#### Error Log API
+#### Reader API
+
 
 
 
@@ -22,6 +38,12 @@ To run each API
 ```bash
   npm i
   node app.js
+```
+
+To run data generators
+
+```bash
+  go run main.go
 ```
 
 ## Authors
