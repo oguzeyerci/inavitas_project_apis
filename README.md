@@ -1,6 +1,6 @@
 # nodejs-skelton
 
-For runing normal  
+For runing normal for each service  
 ```npm i```     
 ```node app.js```
 
