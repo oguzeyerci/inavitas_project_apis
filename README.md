@@ -1,5 +1,5 @@
 
-# Inavitas NodeJS Bootcamp Graduate Project Group 2
+# Inavitas NodeJS Bootcamp Graduation Project Group 2
 
 ## School Energy Tracking System
 
