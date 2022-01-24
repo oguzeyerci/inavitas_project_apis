@@ -3,7 +3,7 @@
 
 ## School Energy Tracking System
 
-With this project, we will be able to monitor the temperature, air quality and average electricity consumption of the classrooms. 3 different sensors will be generate and simulated data in seconds. This data will be retrieved from PostgreSql and Redis with Reader API. This data will first be added to the queue by the Manufacturer. The consumer will receive this data and save it in databases. It also logs all errors to MongoDB with another API.
+With this project, we will be able to monitor temperature, air quality and average electricity consumption of the classrooms. 3 different sensors will be generate and simulated data in seconds. This data will be retrieved from PostgreSql and Redis with Reader API. This data will first be added to the queue by the Producer API. Consumer API will receive this data and save it in databases. It also logs all errors to MongoDB with another API.
 
 ![App Screenshot](https://raw.githubusercontent.com/P149-Bootcamp-Graduation-Project/Group3/main/img/proje_2022-01-05_14-40-33.png)
 
